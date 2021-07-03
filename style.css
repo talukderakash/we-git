@@ -4,7 +4,7 @@
     padding: 15px;
     border: magenta 15px solid;
     border-radius: 15px;
-    margin: 10px 15px ;
+   
 }
 
 #cngi{
@@ -13,7 +13,7 @@
     padding: 15px;
     border: rgb(255, 0, 64) 15px solid;
     border-radius: 15px;
-    margin: 10px 15px ;
+    
     text-align: center;
 }
 #cngii{
@@ -22,7 +22,7 @@
     padding: 15px;
     border: rgb(251, 255, 0) 15px solid;
     border-radius: 15px;
-    margin: 10px 15px ;
+    
     text-align: center;
 }
 .mg{
@@ -31,6 +31,6 @@
     padding: 15px;
     border: magenta 15px solid;
     border-radius: 15px;
-    margin: 10px 15px ;
+   
     text-align: center;
 }
