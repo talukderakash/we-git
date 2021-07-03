@@ -1,0 +1,36 @@
+.cng{
+    color: green;
+    background-color: indianred;
+    padding: 15px;
+    border: magenta 15px solid;
+    border-radius: 15px;
+    margin: 10px 15px ;
+}
+
+#cngi{
+    color: rgb(6, 31, 6);
+    background-color: rgb(14, 212, 80);
+    padding: 15px;
+    border: rgb(255, 0, 64) 15px solid;
+    border-radius: 15px;
+    margin: 10px 15px ;
+    text-align: center;
+}
+#cngii{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding: 15px;
+    border: rgb(251, 255, 0) 15px solid;
+    border-radius: 15px;
+    margin: 10px 15px ;
+    text-align: center;
+}
+.mg{
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 255, 42);
+    padding: 15px;
+    border: magenta 15px solid;
+    border-radius: 15px;
+    margin: 10px 15px ;
+    text-align: center;
+}
